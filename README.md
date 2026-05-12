@@ -1,3 +1,3 @@
-| My GitHub Stats                                                                                                          | Language used most                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=zhangjunphy&show_icons=true&theme=onelight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangjunphy) |
+| My GitHub Stats                                                                          | Top Languages                                                                                    |
+|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| ![Stats](./profile-summary-card-output/github/3-stats.png)                               | ![Top Langs](./profile-summary-card-output/github/2-most-commit-language.png)                    |
