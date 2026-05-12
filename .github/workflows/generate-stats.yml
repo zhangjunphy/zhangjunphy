@@ -20,7 +20,7 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: github
+          THEME: city_lights
         with:
           USERNAME: zhangjunphy
           UTC_OFFSET: 8
